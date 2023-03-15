@@ -5,6 +5,8 @@
 /// Elements may be any token
 /// 
 /// ```rust
+/// use blk_count_macro::count;
+/// 
 /// const COUNT: usize = count!(0, f32, const, something);
 /// const COUNT_NONE: usize = count!();
 /// 
