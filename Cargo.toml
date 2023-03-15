@@ -1,0 +1,11 @@
+[package]
+name = "count_macro"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A simple macro for counting a number of comma-separated tokens at compile time"
+repository = "https://github.com/sigurd4/count_macro"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
