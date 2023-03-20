@@ -1,8 +1,10 @@
 [package]
 name = "blk_count_macro"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
+keywords = ["count", "macro", "const", "blk_count"]
+categories = ["no-std", "rust-patterns"]
 description = "A simple macro for counting a number of comma-separated tokens at compile time"
 repository = "https://github.com/sigurd4/blk_count_macro"
 
